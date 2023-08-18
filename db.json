@@ -1,0 +1,147 @@
+{
+  "schedule": [
+    {
+      "id": 1,
+      "room": "CAS-A 102",
+      "day": "Monday, Wednesday",
+      "time_in": "07:00:00.000000",
+      "time_out": "08:00:00.000000",
+      "subject_code": "Econ Elec 1",
+      "subject_description": "International Business and Trade",
+      "subject_units": 3,
+      "subject_lec": 3,
+      "subject_lab": 0,
+      "section": "AB-ELS 3A",
+      "instructor": "Professor YX"
+    },
+    {
+      "id": 2,
+      "room": "CAS-A 101",
+      "day": "Thursday, Tuesday",
+      "time_in": "09:30:00.000000",
+      "time_out": "10:30:00.000000",
+      "subject_code": "Econ Elec 1",
+      "section": "AB-ELS 3B",
+      "subject_description": "International Business and Trade",
+      "subject_units": 3,
+      "subject_lec": 3,
+      "subject_lab": 0,
+      "instructor": "Professor Z"
+    },
+
+    {
+      "id": 3,
+      "room": "CAS-A 101",
+      "day": "Tuesday",
+      "time_in": "07:30:00.000000",
+      "time_out": "09:00:00.000000",
+      "subject_code": "Econ Elec 1",
+      "section": "AB-ELS 3B",
+      "subject_description": "International Business and Trade",
+      "subject_units": 3,
+      "subject_lec": 3,
+      "subject_lab": 0,
+      "instructor": "Professor X"
+    },
+
+    {
+      "id": 4,
+      "room": "CAS-A 101",
+      "day": "Tuesday, Wednesday",
+      "time_in": "13:00:00.000000",
+      "time_out": "14:00:00.000000",
+      "subject_code": "Econ Elec 1",
+      "section": "AB-ELS 3B",
+      "subject_description": "International Business and Trade",
+      "subject_units": 3,
+      "subject_lec": 3,
+      "subject_lab": 0,
+      "instructor": "Professor Y"
+    },
+    {
+      "id": 5,
+      "room": "CAS-A 102",
+      "day": "Friday",
+      "time_in": "07:00:00.000000",
+      "time_out": "08:00:00.000000",
+      "subject_code": "Econ Elec 1",
+      "section": "AB-ELS 3A",
+      "subject_description": "International Business and Trade",
+      "subject_units": 3,
+      "subject_lec": 3,
+      "subject_lab": 0,
+      "instructor": "Professor X"
+    },
+    {
+      "id": 6,
+      "room": "CAS-A 102",
+      "day": "Monday",
+      "time_in": "08:00:00.000000",
+      "time_out": "09:00:00.000000",
+      "subject_code": "Econ Elec 1",
+      "section": "AB-ELS 3A",
+      "subject_description": "International Business and Trade Sample Subject",
+      "subject_units": 3,
+      "subject_lec": 3,
+      "subject_lab": 0,
+      "instructor": "Professor Y"
+    },
+    {
+      "id": 7,
+      "room": "CAS-A 102",
+      "day": "Saturday",
+      "time_in": "08:00:00.000000",
+      "time_out": "09:00:00.000000",
+      "subject_code": "Econ Elec 1",
+      "section": "AB-ELS 3A",
+      "subject_description": "International Business and Trade",
+      "subject_units": 3,
+      "subject_lec": 3,
+      "subject_lab": 0,
+      "instructor": "Professor Y"
+    },
+    {
+      "id": 8,
+      "room": "CAS-A 102",
+      "day": "Sunday",
+      "time_in": "08:00:00.000000",
+      "time_out": "09:00:00.000000",
+      "subject_code": "Econ Elec 1",
+      "section": "AB-ELS 3A",
+      "subject_description": "International Business and Trade",
+      "subject_units": 3,
+      "subject_lec": 3,
+      "subject_lab": 0,
+      "instructor": "Professor Y"
+    },
+    {
+      "id": 8,
+      "room": "CAS-A 102",
+      "day": "Monday, Wednesday",
+      "time_in": "16:30:00.000000",
+      "time_out": "17:30:00.000000",
+      "subject_code": "Econ Elec 1",
+      "section": "AB-ELS 3A",
+      "subject_description": "International Business and Trade",
+      "subject_units": 3,
+      "subject_lec": 3,
+      "subject_lab": 0,
+      "instructor": "Professor Y"
+    },
+
+    {
+      "id": 9,
+      "room": "CAS-A 102",
+      "day": "Friday, Wednesday",
+      "time_in": "14:00:00.000000",
+      "time_out": "15:00:00.000000",
+      "subject_code": "Econ Elec 1",
+      "section": "AB-ELS 3A",
+      "subject_description": "International Business and Trade",
+      "subject_units": 3,
+      "subject_lec": 3,
+      "subject_lab": 0,
+      "instructor": "Professor YZZ"
+    }
+  ]
+}
